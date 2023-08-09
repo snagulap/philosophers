@@ -17,7 +17,11 @@ To Run Philosophers
 Examples:
 
 ./philo 1 800 200 200  - Philosopher should not eat and should die.
+
 ./philo 5 800 200 200  - No Philosopher should die.
+
 ./philo 5 800 200 200 7  - No Philosopher should die and the simulation should stop when every philosopher has eaten at least 7 times.
+
 ./philo 4 410 200 200  - No Philosopher should die.
+
 ./philo 4 310 200 100  - One Philosopher should die.
